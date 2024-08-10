@@ -11,7 +11,7 @@
   Que esse projeto possa divertir e motivar na jornada de programação!
 
 
-  (English):usa:
+  (English)
   This project was created combining pleasure with bussiness: a virtual Pokédex coded using HTML5, CSS3 and JavaScript tools, as well as the PokeAPI (https://pokeapi.co).
 
   It's a personal project that's a good opportunity to practice the most crucial web tools and the use of APIs. Moreover, this project's theme comes to a nice subject, which many people like: Pokémon. What made the creation process, at least for me, more interesting.
