@@ -1,5 +1,5 @@
 # Welcome to the web Pokédex
-(Português brasileiro)
+(Português brasileiro):brazil:
   Esse projeto foi criado unindo o divertido ao útil: uma Pokédex virtual codificada usando as ferramentas HTML5, CSS3 e JavaScript, mais a API PokeAPI (https://pokeapi.co).
 
   É um projeto pessoal que serve bem para se praticar as ferramentas web mais cruciais e o uso de APIs. Além do mais, o tema desse projeto trata-se de um assunto legal e que muitas pessoas gostam: Pokémon. O que tornou o processo de criação, pelo menos para mim, mais interessante.
@@ -11,8 +11,8 @@
   Que esse projeto possa divertir e motivar na jornada de programação!
 
 
-  (English)
-  This project was created joining the enjoyable to the useful: a virtual Pokédex coded using HTML5, CSS3 and JavaScript tools, as well as the PokeAPI (https://pokeapi.co).
+  (English):usa:
+  This project was created combining pleasure with bussiness: a virtual Pokédex coded using HTML5, CSS3 and JavaScript tools, as well as the PokeAPI (https://pokeapi.co).
 
   It's a personal project that's a good opportunity to practice the most crucial web tools and the use of APIs. Moreover, this project's theme comes to a nice subject, which many people like: Pokémon. What made the creation process, at least for me, more interesting.
 
